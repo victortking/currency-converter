@@ -1,0 +1,33 @@
+.card {
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    width: 85%;
+    background-color: royalblue;
+    filter: drop-shadow(5px 5px 3px grey);
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+span {
+    background-color: white;
+    padding: 7px 40px 7px 40px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#USD {
+    background-color: white;
+    border: none;
+}
+
+#btn {
+    padding: 7px 20px 7px 20px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+}
+
+#btn:hover {
+    border: solid 1px blue;
+}
